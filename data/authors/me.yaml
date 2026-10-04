@@ -2,18 +2,18 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Lcda. Norquis Parra
+  given: Norquis
+  family: Parra
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Licenciada en Psicología con prefencia en Recursos Humanos
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
